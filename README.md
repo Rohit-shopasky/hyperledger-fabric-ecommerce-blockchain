@@ -6,8 +6,11 @@ to the customer.
 
 ## Network Components
    This network consists of 
+   
    2 CAs
+   
    A Solo Orderer
+   
    2 Peers (1 peer per org)
    
 ## Artifacts
