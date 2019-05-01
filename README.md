@@ -34,7 +34,7 @@ To reboot network
     $ ./reboot_ecom_network.sh
    
    
-   That all. This network is development mode. Please do not use it in Production.
+   Thats all. This network is in development mode. Please do not use it in Production.
    
 
  
